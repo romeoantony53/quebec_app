@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include quebec_app *.css
+recursive-include quebec_app *.csv
+recursive-include quebec_app *.html
+recursive-include quebec_app *.ico
+recursive-include quebec_app *.js
+recursive-include quebec_app *.json
+recursive-include quebec_app *.md
+recursive-include quebec_app *.png
+recursive-include quebec_app *.py
+recursive-include quebec_app *.svg
+recursive-include quebec_app *.txt
+recursive-exclude quebec_app *.pyc
