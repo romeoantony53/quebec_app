@@ -9,6 +9,12 @@ app_color = "grey"
 app_email = "romeorealist@gmail.com"
 app_license = "MIT"
 
+test_string = 'value'
+test_list = ['value']
+test_dict = {
+    'key': 'value'
+}
+
 # Includes in <head>
 # ------------------
 
