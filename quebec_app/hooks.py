@@ -9,14 +9,12 @@ app_color = "grey"
 app_email = "romeorealist@gmail.com"
 app_license = "MIT"
 
-test_string = 'value'
-test_list = ['value']
-test_dict = {
-    'key': 'value'
-}
+
 
 # Includes in <head>
 # ------------------
+web_include_js = ["/assets/quebec_app/js/main.js","/assets/quebec_app/vendor/bootstrap/js/bootstrap.bundle.min.js","/assets/quebec_app/vendor/glightbox/js/glightbox.min.js","/assets/quebec_app/vendor/isotope-layout/isotope.pkgd.min.js","/assets/quebec_app/vendor/swiper/swiper-bundle.min.js","/assets/quebec_app/vendor/waypoints/noframework.waypoints.js","/assets/quebec_app/vendor/php-email-form/validate.js"]
+web_include_css = ["/assets/quebec_app/css/style.css","/assets/quebec_app/vendor/animate.css/animate.min.css","/assets/quebec_app/vendor/bootstrap/css/bootstrap.min.css","/assets/quebec_app/vendor/bootstrap-icons/bootstrap-icons.css","/assets/quebec_app/vendor/boxicons/css/boxicons.min.css","/assets/quebec_app/vendor/glightbox/css/glightbox.min.css","/assets/quebec_app/vendor/remixicon/remixicon.css","/assets/quebec_app/vendor/swiper/swiper-bundle.min.css"]
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/quebec_app/css/quebec_app.css"
